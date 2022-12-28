@@ -29,5 +29,4 @@ jobs:
         run: |
           npm i -g @liriliri/lsla
           npm i
-          npm run init:front_end
           npm run build
