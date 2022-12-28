@@ -29,4 +29,3 @@ jobs:
         run: |
           npm i -g @liriliri/lsla
           npm i
-          npm run build
